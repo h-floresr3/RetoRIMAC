@@ -20,7 +20,7 @@
 
 <h2>Datos de prueba</h2>
 {
-    "nombre": "Sonia Morales",
+    "nombre": "Pepito Puertas",
     "fechaNacimiento": "19BBY",
     "colorOjos": "blue",
     "genero": "male",
